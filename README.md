@@ -1,63 +1,7 @@
 # Open-Source iOS Apps
 
-<!-- 
-⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
- https://github.com/dkhamsing/open-source-ios-apps -->
-
 A collaborative list of **511** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 20, 2016*).
  
-Jump to 
- 
-- [Apple TV](#apple-tv) 
-- [Apple Watch](#apple-watch) 
-- [Browser](#browser) 
-- [Calendar](#calendar) 
-- [Communication](#communication) 
-- [Conference](#conference) 
-- [Content Blocking](#content-blocking) 
-- [Developer](#developer) 
-  - [GitHub](#github) 
-- [Finance](#finance) 
-  - [Bitcoin](#bitcoin) 
-- [Games](#games) 
-  - [Emulators](#emulators) 
-- [Health](#health) 
-  - [ResearchKit](#researchkit) 
-- [Keyboards](#keyboards) 
-- [Location](#location) 
-- [Media](#media) 
-- [News](#news) 
-  - [Hacker News](#hacker-news) 
-- [Official](#official) 
-- [Sample](#sample) 
-- [Science](#science) 
-- [Security](#security) 
-- [Social](#social) 
-- [Tasks](#tasks) 
-- [Text](#text) 
-- [Travel](#travel) 
-- [Weather](#weather) 
-- [Web](#web) 
-- [Special](#special) 
-  - [3D Touch](#3d-touch) 
-  - [Appcelerator](#appcelerator) 
-  - [Core Data](#core-data) 
-  - [Firebase](#firebase) 
-  - [Ionic](#ionic) 
-  - [Parse](#parse) 
-  - [React Native](#react-native) 
-  - [Reactive Programming](#reactive-programming) 
-  - [ReactiveCocoa](#reactivecocoa) 
-  - [Realm](#realm) 
-  - [RxSwift](#rxswift) 
-  - [VIPER](#viper) 
-  - [Xamarin](#xamarin) 
-- [Misc](#misc) 
-  - [Calculator](#calculator) 
-  - [Clock](#clock) 
-  - [Timer](#timer) 
-- [Bonus](#bonus) 
-
 ```
 Projects that are not in English have a flag
 🇨🇳 Project is in Chinese
