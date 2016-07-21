@@ -1634,10 +1634,6 @@ Image, video, audio, reading — [back to top](#readme)
 - TrackMyTime 
   - https://github.com/EvgenyKarkan/TrackMyTime
 
-## Bonus
-
-See [archive](ARCHIVE.md), [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
-
 ## Thanks
 
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 
